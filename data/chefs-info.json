@@ -1,0 +1,320 @@
+[
+    {
+        "chef_id": 1,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "John Smith",
+        "description": "Renowned American chef specializing in traditional cuisine.",
+        "years_of_experience": 15,
+        "num_of_recipes": 5,
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe1.jpg",
+                "recipe_name": "Classic Cheeseburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion"
+                ],
+                "cooking_method": "Grilling",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe2.jpg",
+                "recipe_name": "Southern Fried Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Flour",
+                    "Buttermilk",
+                    "Spices",
+                    "Oil"
+                ],
+                "cooking_method": "Deep frying",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe3.jpg",
+                "recipe_name": "Apple Pie",
+                "ingredients": [
+                    "Apples",
+                    "Sugar",
+                    "Cinnamon",
+                    "Pie crust",
+                    "Butter"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": 2,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Emily Johnson",
+        "description": "Celebrity chef known for her innovative fusion recipes.",
+        "years_of_experience": 10,
+        "num_of_recipes": 6,
+        "likes": 1800,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe4.jpg",
+                "recipe_name": "Sushi Burrito",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori",
+                    "Fish",
+                    "Vegetables",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Rolling",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe5.jpg",
+                "recipe_name": "Spicy Tacos",
+                "ingredients": [
+                    "Ground beef",
+                    "Tortillas",
+                    "Salsa",
+                    "Avocado",
+                    "Spices"
+                ],
+                "cooking_method": "Grilling",
+                "rating": 4.4
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe6.jpg",
+                "recipe_name": "Mango Sticky Rice",
+                "ingredients": [
+                    "Mango",
+                    "Sticky rice",
+                    "Coconut milk",
+                    "Sugar",
+                    "Sesame seeds"
+                ],
+                "cooking_method": "Steaming",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "chef_id": 3,
+        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_name": "Sarah Johnson",
+        "description": "Renowned pastry chef famous for her delectable desserts.",
+        "years_of_experience": 12,
+        "num_of_recipes": 4,
+        "likes": 1500,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe7.jpg",
+                "recipe_name": "Chocolate Souffle",
+                "ingredients": [
+                    "Chocolate",
+                    "Eggs",
+                    "Sugar",
+                    "Butter",
+                    "Vanilla extract"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe8.jpg",
+                "recipe_name": "Crème Brûlée",
+                "ingredients": [
+                    "Heavy cream",
+                    "Egg yolks",
+                    "Sugar",
+                    "Vanilla bean",
+                    "Caramelized sugar"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe9.jpg",
+                "recipe_name": "Berry Tart",
+                "ingredients": [
+                    "Pie crust",
+                    "Mixed berries",
+                    "Pastry cream",
+                    "Gelatin",
+                    "Sugar"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chef_id": 4,
+        "chef_picture": "https://example.com/chef4.jpg",
+        "chef_name": "Michael Thompson",
+        "description": "Master chef with expertise in French cuisine.",
+        "years_of_experience": 20,
+        "num_of_recipes": 7,
+        "likes": 2200,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe10.jpg",
+                "recipe_name": "Coq au Vin",
+                "ingredients": [
+                    "Chicken",
+                    "Red wine",
+                    "Bacon",
+                    "Mushrooms",
+                    "Pearl onions"
+                ],
+                "cooking_method": "Stewing",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe11.jpg",
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "Beef",
+                    "Red wine",
+                    "Onion",
+                    "Carrots",
+                    "Garlic"
+                ],
+                "cooking_method": "Stewing",
+                "rating": 4.6
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe12.jpg",
+                "recipe_name": "Crème Caramel",
+                "ingredients": [
+                    "Eggs",
+                    "Sugar",
+                    "Milk",
+                    "Vanilla extract",
+                    "Caramel sauce"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": 5,
+        "chef_picture": "https://example.com/chef5.jpg",
+        "chef_name": "David Rodriguez",
+        "description": "Inventive chef specializing in modern Mexican cuisine.",
+        "years_of_experience": 8,
+        "num_of_recipes": 5,
+        "likes": 900,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe13.jpg",
+                "recipe_name": "Mole Poblano",
+                "ingredients": [
+                    "Dried chilies",
+                    "Chocolate",
+                    "Onion",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cooking_method": "Simmering",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe14.jpg",
+                "recipe_name": "Ceviche",
+                "ingredients": [
+                    "Fish",
+                    "Lime juice",
+                    "Tomato",
+                    "Onion",
+                    "Cilantro"
+                ],
+                "cooking_method": "Marinating",
+                "rating": 4.3
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe15.jpg",
+                "recipe_name": "Tres Leches Cake",
+                "ingredients": [
+                    "Cake",
+                    "Evaporated milk",
+                    "Condensed milk",
+                    "Heavy cream",
+                    "Vanilla extract"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "chef_id": 6,
+        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_name": "Sophia Martinez",
+        "description": "Talented chef known for her flavorful Mediterranean dishes.",
+        "years_of_experience": 6,
+        "num_of_recipes": 3,
+        "likes": 700,
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_picture": "https://example.com/recipe16.jpg",
+                "recipe_name": "Greek Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Cucumbers",
+                    "Feta cheese",
+                    "Olives",
+                    "Olive oil"
+                ],
+                "cooking_method": "Assembling",
+                "rating": 4.4
+            },
+            {
+                "recipe_id": 2,
+                "recipe_picture": "https://example.com/recipe17.jpg",
+                "recipe_name": "Mediterranean Chicken Skewers",
+                "ingredients": [
+                    "Chicken",
+                    "Bell peppers",
+                    "Red onion",
+                    "Lemon",
+                    "Garlic"
+                ],
+                "cooking_method": "Grilling",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": 3,
+                "recipe_picture": "https://example.com/recipe18.jpg",
+                "recipe_name": "Lemon Tart",
+                "ingredients": [
+                    "Pie crust",
+                    "Lemon zest",
+                    "Lemon juice",
+                    "Eggs",
+                    "Sugar"
+                ],
+                "cooking_method": "Baking",
+                "rating": 4.7
+            }
+        ]
+    }
+]
