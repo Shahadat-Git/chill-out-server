@@ -1,7 +1,7 @@
 [
     {
         "chef_id": 1,
-        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_picture": "https://i.ibb.co/b5ZjHNp/John-Smith.jpg",
         "chef_name": "John Smith",
         "description": "Renowned American chef specializing in traditional cuisine.",
         "years_of_experience": 15,
@@ -10,7 +10,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe1.jpg",
+                "recipe_picture": "https://i.ibb.co/8DwbjYR/Classic-Cheeseburger.jpg",
                 "recipe_name": "Classic Cheeseburger",
                 "ingredients": [
                     "Ground beef",
@@ -24,7 +24,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe2.jpg",
+                "recipe_picture": "https://i.ibb.co/Zdt41xk/Southern-Fried-Chicken.jpg",
                 "recipe_name": "Southern Fried Chicken",
                 "ingredients": [
                     "Chicken",
@@ -38,7 +38,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe3.jpg",
+                "recipe_picture": "https://i.ibb.co/cghXg7w/ApplePie.jpg",
                 "recipe_name": "Apple Pie",
                 "ingredients": [
                     "Apples",
@@ -54,7 +54,7 @@
     },
     {
         "chef_id": 2,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://i.ibb.co/2W0wwsv/Emily-Johnson.jpg",
         "chef_name": "Emily Johnson",
         "description": "Celebrity chef known for her innovative fusion recipes.",
         "years_of_experience": 10,
@@ -63,7 +63,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe4.jpg",
+                "recipe_picture": "https://i.ibb.co/Zx6VDbz/Sushi-Burrito.jpg",
                 "recipe_name": "Sushi Burrito",
                 "ingredients": [
                     "Sushi rice",
@@ -77,7 +77,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe5.jpg",
+                "recipe_picture": "https://i.ibb.co/27DPN7m/Spicy-Tacos.jpg",
                 "recipe_name": "Spicy Tacos",
                 "ingredients": [
                     "Ground beef",
@@ -91,7 +91,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe6.jpg",
+                "recipe_picture": "https://i.ibb.co/R7HFQzN/Mango-Sticky-Rice.jpg",
                 "recipe_name": "Mango Sticky Rice",
                 "ingredients": [
                     "Mango",
@@ -107,7 +107,7 @@
     },
     {
         "chef_id": 3,
-        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_picture": "https://i.ibb.co/2dSqmjR/Sarah-Johnson.jpg",
         "chef_name": "Sarah Johnson",
         "description": "Renowned pastry chef famous for her delectable desserts.",
         "years_of_experience": 12,
@@ -116,7 +116,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe7.jpg",
+                "recipe_picture": "https://i.ibb.co/PNCnp4s/Chocolate-Souffle.jpg",
                 "recipe_name": "Chocolate Souffle",
                 "ingredients": [
                     "Chocolate",
@@ -130,7 +130,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe8.jpg",
+                "recipe_picture": "https://i.ibb.co/MRv5hY0/Cr-me-Br-l-e.jpg",
                 "recipe_name": "Crème Brûlée",
                 "ingredients": [
                     "Heavy cream",
@@ -144,7 +144,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe9.jpg",
+                "recipe_picture": "https://i.ibb.co/GcLHByD/Berry-Tart.jpg",
                 "recipe_name": "Berry Tart",
                 "ingredients": [
                     "Pie crust",
@@ -160,7 +160,7 @@
     },
     {
         "chef_id": 4,
-        "chef_picture": "https://example.com/chef4.jpg",
+        "chef_picture": "https://i.ibb.co/m5sRCHY/Michael-Thompson.jpg",
         "chef_name": "Michael Thompson",
         "description": "Master chef with expertise in French cuisine.",
         "years_of_experience": 20,
@@ -169,7 +169,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe10.jpg",
+                "recipe_picture": "https://i.ibb.co/hHt3XkH/CoqauVin.jpg",
                 "recipe_name": "Coq au Vin",
                 "ingredients": [
                     "Chicken",
@@ -183,7 +183,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe11.jpg",
+                "recipe_picture": "https://i.ibb.co/QKj2V4x/Beef-Bourguignon.jpg",
                 "recipe_name": "Beef Bourguignon",
                 "ingredients": [
                     "Beef",
@@ -197,7 +197,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe12.jpg",
+                "recipe_picture": "https://i.ibb.co/yVvXS1H/Cr-me-Caramel.jpg",
                 "recipe_name": "Crème Caramel",
                 "ingredients": [
                     "Eggs",
@@ -213,7 +213,7 @@
     },
     {
         "chef_id": 5,
-        "chef_picture": "https://example.com/chef5.jpg",
+        "chef_picture": "https://i.ibb.co/0ZrDMsk/David-Rodriguez.jpg",
         "chef_name": "David Rodriguez",
         "description": "Inventive chef specializing in modern Mexican cuisine.",
         "years_of_experience": 8,
@@ -222,7 +222,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe13.jpg",
+                "recipe_picture": "https://i.ibb.co/VQVHTpC/Mole-Poblano.jpg",
                 "recipe_name": "Mole Poblano",
                 "ingredients": [
                     "Dried chilies",
@@ -236,7 +236,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe14.jpg",
+                "recipe_picture": "https://i.ibb.co/S7YLwj8/Ceviche.jpg",
                 "recipe_name": "Ceviche",
                 "ingredients": [
                     "Fish",
@@ -250,7 +250,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe15.jpg",
+                "recipe_picture": "https://i.ibb.co/yfwTHTv/Tres-Leches-Cake.jpg",
                 "recipe_name": "Tres Leches Cake",
                 "ingredients": [
                     "Cake",
@@ -266,7 +266,7 @@
     },
     {
         "chef_id": 6,
-        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_picture": "https://i.ibb.co/9hqBGvS/Sophia-Martinez.jpg",
         "chef_name": "Sophia Martinez",
         "description": "Talented chef known for her flavorful Mediterranean dishes.",
         "years_of_experience": 6,
@@ -275,7 +275,7 @@
         "recipes": [
             {
                 "recipe_id": 1,
-                "recipe_picture": "https://example.com/recipe16.jpg",
+                "recipe_picture": "https://i.ibb.co/f9w6nVD/Greek-Salad.jpg",
                 "recipe_name": "Greek Salad",
                 "ingredients": [
                     "Tomatoes",
@@ -289,7 +289,7 @@
             },
             {
                 "recipe_id": 2,
-                "recipe_picture": "https://example.com/recipe17.jpg",
+                "recipe_picture": "https://i.ibb.co/BgFs1QL/Mediterranean-Chicken-Skewers.jpg",
                 "recipe_name": "Mediterranean Chicken Skewers",
                 "ingredients": [
                     "Chicken",
@@ -303,7 +303,7 @@
             },
             {
                 "recipe_id": 3,
-                "recipe_picture": "https://example.com/recipe18.jpg",
+                "recipe_picture": "https://i.ibb.co/Sm5DfKQ/Lemon-Tart.jpg",
                 "recipe_name": "Lemon Tart",
                 "ingredients": [
                     "Pie crust",
